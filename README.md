@@ -1,2 +1,2 @@
-# web-Assignment-1
+# Coding blocks
 Web Assignment 1
